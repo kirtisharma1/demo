@@ -1,0 +1,1 @@
+{"data":{"getUser":{"userId":"user1","firstName":"John","lastName":"Doe","accounts":[{"accountToken":"1112","accountType":"Saving","accountNumber":"8734","__typename":"Account"},{"accountToken":"1176","accountType":"Checking","accountNumber":"6353","__typename":"Account"}],"__typename":"User"}}}
